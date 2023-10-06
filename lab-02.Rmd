@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "International Dental Society: Isaac Freer, User2, User3 and User4"
+author: "International Dental Society: Isaac Freer, Katy Bannister, User3 and User4"
 date: "`r Sys.Date()`"
 output: html_document
 ---
